@@ -1,0 +1,22 @@
+{
+"funcionario": [
+    {"nome": "Lara", "cpf": "111111111", "email": "lara@lara.com", "numero": "999999999","cargo":"vendedor"},
+    {"nome": "Clara", "cpf": "111111111", "email": "clara@clara.com", "numero": "999999999","cargo":"supervisor"},
+    {"nome": "Sara", "cpf": "111111111", "email": "sara@sara.com", "numero": "999999999","cargo":"gerente"},
+    {"nome": "Samara", "cpf": "111111111", "email": "samara@samara.com", "numero": "999999999","cargo":"vendedor"},
+    {"nome": "Kiara", "cpf": "111111111", "email": "kiara@kiara.com", "numero": "999999999","cargo":"supervisor"}
+  ],
+   "clientes": [
+    {"nome": "Lara", "cpf": "111111111", "email": "lara@lara.com", "numero": "999999999"},
+    {"nome": "Clara", "cpf": "111111111", "email": "clara@clara.com", "numero": "999999999"},
+    {"nome": "Sara", "cpf": "111111111", "email": "sara@sara.com", "numero": "999999999"},
+    {"nome": "Samara", "cpf": "111111111", "email": "samara@samara.com", "numero": "999999999"},
+    {"nome": "Kiara", "cpf": "111111111", "email": "kiara@kiara.com", "numero": "999999999"}
+  ],
+   "venda": [
+    {"dataVenda": "2023-05-16","valor":  "150"},
+    {"dataVenda": "2023-06-16", "valor":  "1500"},
+    {"dataVenda": "2023-07-03", "valor":  "200"},
+    {"dataVenda": "2023-05-08", "valor":  "300"}
+   ]
+}
