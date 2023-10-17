@@ -3,13 +3,13 @@
     {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numero": "(32)99999-9999","cargo":"Vendedor"},
     {"id": "2","nome": "Clara", "cpf": "222.222.222-22", "email": "clara@gmail.com", "numero": "(32)98888-8888","cargo":"Supervisor"},
     {"id": "3","nome": "Sara", "cpf": "333.333.333-33", "email": "sara@gmail.com", "numero": "(32)97777-7777","cargo":"Gerente"},
-    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numero": "(32)966666-66666","cargo":"Vendedor"},
+    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numero": "(32)966666-66666","cargo":"Vendedor"}
   ],
    "clientes": [
-     {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numero": "(32)99999-9999"},
+    {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numero": "(32)99999-9999"},
     {"id": "2","nome": "Clara", "cpf": "222.222.222-22", "email": "clara@gmail.com", "numero": "(32)98888-8888"},
     {"id": "3","nome": "Sara", "cpf": "333.333.333-33", "email": "sara@gmail.com", "numero": "(32)97777-7777"},
-    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numero": "(32)966666-66666"},
+    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numero": "(32)966666-66666"}
   ],
    "vendas": [
     {"id": "1","dataVenda": "2023-05-16","valor":  "150"},
