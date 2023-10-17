@@ -1,22 +1,20 @@
 {
 "funcionarios": [
-    {"nome": "Lara", "cpf": "111111111", "email": "lara@lara.com", "numero": "999999999","cargo":"vendedor"},
-    {"nome": "Clara", "cpf": "111111111", "email": "clara@clara.com", "numero": "999999999","cargo":"supervisor"},
-    {"nome": "Sara", "cpf": "111111111", "email": "sara@sara.com", "numero": "999999999","cargo":"gerente"},
-    {"nome": "Samara", "cpf": "111111111", "email": "samara@samara.com", "numero": "999999999","cargo":"vendedor"},
-    {"nome": "Kiara", "cpf": "111111111", "email": "kiara@kiara.com", "numero": "999999999","cargo":"supervisor"}
+    {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numero": "(32)99999-9999","cargo":"Vendedor"},
+    {"id": "2","nome": "Clara", "cpf": "222.222.222-22", "email": "clara@gmail.com", "numero": "(32)98888-8888","cargo":"Supervisor"},
+    {"id": "3","nome": "Sara", "cpf": "333.333.333-33", "email": "sara@gmail.com", "numero": "(32)97777-7777","cargo":"Gerente"},
+    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numero": "(32)966666-66666","cargo":"Vendedor"},
   ],
    "clientes": [
-    {"nome": "Lara", "cpf": "111111111", "email": "lara@lara.com", "numero": "999999999"},
-    {"nome": "Clara", "cpf": "111111111", "email": "clara@clara.com", "numero": "999999999"},
-    {"nome": "Sara", "cpf": "111111111", "email": "sara@sara.com", "numero": "999999999"},
-    {"nome": "Samara", "cpf": "111111111", "email": "samara@samara.com", "numero": "999999999"},
-    {"nome": "Kiara", "cpf": "111111111", "email": "kiara@kiara.com", "numero": "999999999"}
+     {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numero": "(32)99999-9999"},
+    {"id": "2","nome": "Clara", "cpf": "222.222.222-22", "email": "clara@gmail.com", "numero": "(32)98888-8888"},
+    {"id": "3","nome": "Sara", "cpf": "333.333.333-33", "email": "sara@gmail.com", "numero": "(32)97777-7777"},
+    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numero": "(32)966666-66666"},
   ],
    "vendas": [
-    {"dataVenda": "2023-05-16","valor":  "150"},
-    {"dataVenda": "2023-06-16", "valor":  "1500"},
-    {"dataVenda": "2023-07-03", "valor":  "200"},
-    {"dataVenda": "2023-05-08", "valor":  "300"}
+    {"id": "1","dataVenda": "2023-05-16","valor":  "150"},
+    {"id": "2","dataVenda": "2023-06-16", "valor":  "1500"},
+    {"id": "3","dataVenda": "2023-07-03", "valor":  "200"},
+    {"id": "4","dataVenda": "2023-05-08", "valor":  "300"}
    ]
 }
