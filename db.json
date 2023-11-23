@@ -6,10 +6,10 @@
     {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numeroTelefone": "(32) 98482-7573","cargo":"Vendedor","salario":"R$3.000,00","logradouro":"Brasil","numero": "789","complemento":"Creche Municipal","bairro":"Manoel Honório","cidade":"Juiz de Fora","Estado":"Minas Gerais","dataInicioMelhorFuncionario":"2024-04-22","dataFimMelhorFuncionario":"2024-05-22","quantidadeVendas":"10"}
   ],
    "clientes": [
-    {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numeroTelefone": "(99) 3642-7193","dataNascimento" : "22/06/2004"},
-    {"id": "2","nome": "Clara", "cpf": "222.222.222-22", "email": "clara@gmail.com", "numeroTelefone": "(32) 98832-2533","dataNascimento" : "03/04/2004"},
-    {"id": "3","nome": "Sara", "cpf": "333.333.333-33", "email": "sara@gmail.com", "numeroTelefone": "(32) 99822-5745","dataNascimento" : "16/04/2006"},
-    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numeroTelefone": "(32) 98482-7573","dataNascimento" : "27/03/1995"}
+    {"id": "1","nome": "Lara", "cpf": "111.111.111-11", "email": "lara@gmail.com", "numeroTelefone": "(99) 3642-7193","dataNascimento" : "2023-14-07"},
+    {"id": "2","nome": "Clara", "cpf": "222.222.222-22", "email": "clara@gmail.com", "numeroTelefone": "(32) 98832-2533","dataNascimento" : "2023-21-04"},
+    {"id": "3","nome": "Sara", "cpf": "333.333.333-33", "email": "sara@gmail.com", "numeroTelefone": "(32) 99822-5745","dataNascimento" : "2023-22-03"},
+    {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numeroTelefone": "(32) 98482-7573","dataNascimento" : "2023-04-11"}
   ],
    "vendas": [
     {"id": "1","nomeCliente" : "Lara","dataVenda": "2023-05-16","cupomDesconto" :"20%","valor":  "R$150,00","formaPagamento" : "Cartão Crédito"},
