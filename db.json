@@ -12,9 +12,9 @@
     {"id": "4","nome": "Samara", "cpf": "444.444.444-44", "email": "samara@gmail.com", "numeroTelefone": "(32) 98482-7573","dataNascimento" : "2004-05-08"}
   ],
    "vendas": [
-    {"id": "1","nomeCliente" : "Lara","dataVenda": "2023-05-16","cupomDesconto" :"20%","valor":  "R$150,00","formaPagamento" : "Cartão Crédito"},
-    {"id": "2","nomeCliente" : "Clara","dataVenda": "2023-06-16","cupomDesconto" :"15%", "valor":  "R$1.500,00","formaPagamento" : "Cartão Débito"},
-    {"id": "3","nomeCliente" : "Sara","dataVenda": "2023-07-03", "cupomDesconto": "30%","valor":  "R$200,00","formaPagamento" : "Pix"},
-    {"id": "4","nomeCliente" : "Samara","dataVenda": "2023-05-08","cupomDesconto":"5%", "valor":  "R$300,00","formaPagamento" : "Dinheiro"}
+    {"id": "1","nomeCliente" : "Lara","dataVenda": "2023-05-16","cupomDesconto" :"20%","valor":  "R$150,00","formaPagamento" : "Cartão Crédito","listaProdutos" : "Perfume Tangerina(120),Sabonete de Sálvia(60),Perfume Versace(20)"},
+    {"id": "2","nomeCliente" : "Clara","dataVenda": "2023-06-16","cupomDesconto" :"15%", "valor":  "R$1.500,00","formaPagamento" : "Cartão Débito","listaProdutos" : "Perfume Tangerina(120),Sabonete de Sálvia(60),Perfume Versace(20)"},
+    {"id": "3","nomeCliente" : "Sara","dataVenda": "2023-07-03", "cupomDesconto": "30%","valor":  "R$200,00","formaPagamento" : "Pix","listaProdutos" : "Perfume Tangerina(120),Sabonete de Sálvia(60),Perfume Versace(20)"},
+    {"id": "4","nomeCliente" : "Samara","dataVenda": "2023-05-08","cupomDesconto":"5%", "valor":  "R$300,00","formaPagamento" : "Dinheiro","listaProdutos" : "Perfume Tangerina(120),Sabonete de Sálvia(60),Perfume Versace(20)"}
    ]
 }
